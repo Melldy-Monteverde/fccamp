@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/fccamp/static/css/main.073c9b0a.css",
-    "main.js": "/fccamp/static/js/main.a33ad08b.js",
+    "main.css": "/fccamp/static/css/main.c5134c4e.css",
+    "main.js": "/fccamp/static/js/main.aa733358.js",
+    "static/media/testimonio-emma.png": "/fccamp/static/media/testimonio-emma.add10415a5668325d2f2.png",
+    "static/media/testimonio-sarah.png": "/fccamp/static/media/testimonio-sarah.2c504d1ebaf1961e4a40.png",
+    "static/media/testimonio-shawn.png": "/fccamp/static/media/testimonio-shawn.0d373888087fb18fc145.png",
     "index.html": "/fccamp/index.html",
-    "main.073c9b0a.css.map": "/fccamp/static/css/main.073c9b0a.css.map",
-    "main.a33ad08b.js.map": "/fccamp/static/js/main.a33ad08b.js.map"
+    "main.c5134c4e.css.map": "/fccamp/static/css/main.c5134c4e.css.map",
+    "main.aa733358.js.map": "/fccamp/static/js/main.aa733358.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a33ad08b.js"
+    "static/css/main.c5134c4e.css",
+    "static/js/main.aa733358.js"
   ]
 }
