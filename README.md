@@ -1,3 +1,3 @@
-# FreeCodeCamp slp with ract
+# FreeCodeCamp slp with react
 
 note: just for fun!
