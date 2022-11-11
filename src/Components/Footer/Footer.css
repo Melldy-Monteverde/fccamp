@@ -1,0 +1,14 @@
+.footer {
+  background: #0a0a23;
+  color: #fff;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.contact-link {
+  color: #fff;
+  font-size: 1.3rem;
+}
