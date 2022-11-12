@@ -12,3 +12,15 @@
   color: #fff;
   font-size: 1.3rem;
 }
+
+@media all and (375px <= width <= 765px) {
+  .footer {
+    min-width: 100%;
+    position: fixed;
+    bottom: 0;
+  }
+
+  .contact-link {
+    font-size: 1rem;
+  }
+}

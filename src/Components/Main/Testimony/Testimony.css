@@ -35,3 +35,55 @@
   font-size: 1.1rem;
   text-align: justify;
 }
+
+@media all and (575px <= width <= 765px) {
+  .testimony-container {
+    height: 350px;
+    display: flex;
+    flex-flow: column nowrap;
+  }
+
+  .testimony-text-container {
+    padding: 20px;
+  }
+
+  .testimony-text-container > p {
+    font-size: 0.8rem;
+  }
+
+  .testimony-img {
+    height: 100%;
+    border-radius: 20%;
+    margin: 10px;
+  }
+
+  .testimony-text-name {
+    padding-bottom: 5px;
+  }
+}
+
+@media all and (max-width: 574px) {
+  .testimony-container {
+    height: 400px;
+    display: flex;
+    flex-flow: column nowrap;
+  }
+
+  .testimony-text-container {
+    padding: 30px;
+  }
+
+  .testimony-text-container > p {
+    font-size: 0.7rem;
+  }
+
+  .testimony-img {
+    height: 100px;
+    border-radius: 20%;
+  }
+
+  .testimony-text-name {
+    margin-top: 0;
+    padding-bottom: 10px;
+  }
+}

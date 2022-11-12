@@ -1,6 +1,6 @@
 .main-container {
   background: #efefef;
-  min-height: 600px;
+  min-height: 700px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -13,4 +13,22 @@
   font-weight: 700;
   line-height: 1.1;
   margin: 40px 0;
+}
+
+@media all and (475px <= width <= 765px) {
+  .main-container {
+    min-height: 600px;
+    padding: 1rem;
+  }
+
+  .hero-title {
+    font-size: 1.6rem;
+    margin: 25px;
+  }
+}
+
+@media all and (max-width: 474px) {
+  .hero-title {
+    font-size: 1.3rem;
+  }
 }
